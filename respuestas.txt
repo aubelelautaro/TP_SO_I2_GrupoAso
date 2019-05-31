@@ -1,0 +1,8 @@
+1- git remote add upstream 
+https://github.com/matirue/TP_SO_I2_GrupoAso
+
+2- No
+
+3- No
+
+4- no
