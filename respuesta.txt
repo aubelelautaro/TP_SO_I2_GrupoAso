@@ -1,0 +1,9 @@
+1- git remote add upstram https://github.com/zaratenicolasm/TP_SO_I2_GrupoAso
+   git fetch upstram 
+   git checkout master
+   git merge upstram/master
+   rebase
+
+2- Si
+3- Si
+4- No
